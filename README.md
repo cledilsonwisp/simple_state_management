@@ -10,6 +10,11 @@ O **Simple State Management** é um aplicativo de exemplo que demonstra como usa
 - Exemplo de reatividade sem pacotes externos.
 - Interface simples e fácil de entender.
 
+## Captura de tela
+
+![Foto](print.png)
+
+
 ## Como Usar
 ```
 Primeiro, configure corretamente o ambiente de desenvolvimento em Flutter na sua máquina, veja em: [Flutter](https://flutter.dev/docs/get-started/install)
