@@ -12,27 +12,23 @@ O **Simple State Management** é um aplicativo de exemplo que demonstra como usa
 
 ## Como Usar
 
-Primeiro, configure corretamente o ambiente de desenvolvimento em Flutter na sua máquina, veja em: [Get Started with Flutter](https://flutter.dev/docs/get-started/install)
+Primeiro, configure corretamente o ambiente de desenvolvimento em Flutter na sua máquina, veja em: [Flutter](https://flutter.dev/docs/get-started/install)
 
----
-
-- 1. Clone este repositório:
+- Clone este repositório:
 
 $ git clone https://github.com/seu-usuario/simple_state_management.git
 
-- 2. Entre no diretório:
+- Entre no diretório:
 
 $ cd simple_state_management
 
-- 3. Instale as dependências:
+- Instale as dependências:
 
 $ flutter pub get
 
-- 4. Inicie o aplicativo:
+- Inicie o aplicativo:
 
 $ flutter run
-
----
 
 ---
 
@@ -40,21 +36,19 @@ $ flutter run
 
 Contribuições são bem-vindas! Siga os passos abaixo para contribuir com o projeto:
 
-- 1. Fork o projeto.
+- Fork o projeto.
 
-- 2. Crie uma nova branch com suas mudanças:
+- Crie uma nova branch com suas mudanças:
 
 $ git checkout -b my-feature
 
-- 3. Salve suas mudanças e crie uma mensagem de commit descrevendo o que fez:
+- Salve suas mudanças e crie uma mensagem de commit descrevendo o que fez:
 
 $ git commit -m "feature: My new feature"
 
-- 4. Envie suas mudanças para o repositório remoto:
+- Envie suas mudanças para o repositório remoto:
 
 $ git push origin my-feature
-
----
 
 ---
 
