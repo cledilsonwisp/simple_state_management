@@ -30,7 +30,7 @@ class _TimerPageState extends State<TimerPage> {
   Widget build(BuildContext context) {
     debugPrint('building MyHomePage');
     return Scaffold(
-      appBar: AppBar(title: const Text('My Timer App')),
+      appBar: AppBar(title: const Text('Meu contador')),
       body: const Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
