@@ -11,7 +11,7 @@ O **Simple State Management** é um aplicativo de exemplo que demonstra como usa
 - Interface simples e fácil de entender.
 
 ## Como Usar
-
+```
 Primeiro, configure corretamente o ambiente de desenvolvimento em Flutter na sua máquina, veja em: [Flutter](https://flutter.dev/docs/get-started/install)
 
 - Clone este repositório:
@@ -29,11 +29,11 @@ $ flutter pub get
 - Inicie o aplicativo:
 
 $ flutter run
-
+```
 ---
 
 ## Contribuição
-
+  ```
 Contribuições são bem-vindas! Siga os passos abaixo para contribuir com o projeto:
 
 - Fork o projeto.
@@ -49,10 +49,9 @@ $ git commit -m "feature: My new feature"
 - Envie suas mudanças para o repositório remoto:
 
 $ git push origin my-feature
+  ```
 
----
-
-##Contato
+## Contato
 
 Para mais informações ou dúvidas, entre em contato pelo email: cavbrcleg@gmail.com
 
