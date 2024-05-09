@@ -22,7 +22,7 @@ Primeiro, configure corretamente o ambiente de desenvolvimento em Flutter na sua
 
 - Clone este repositório:
 
-$ git clone https://github.com/seu-usuario/simple_state_management.git
+$ git clone https://github.com/cledilsonwisp/simple_state_management.git
 
 - Entre no diretório:
 
