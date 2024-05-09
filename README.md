@@ -12,7 +12,7 @@ O **Simple State Management** é um aplicativo de exemplo que demonstra como usa
 
 ## Captura de tela
 
-<img src="print.png" alt="print do app"  height="200">
+<img src="print.png" alt="print do app"  height="500">
 
 
 
